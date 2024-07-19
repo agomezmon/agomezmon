@@ -1,5 +1,5 @@
 ### Hi there 
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160">
 
 ### 👋, I'm Adrian Gomez 
 ## IT Consultant at SPS 👨‍💻
